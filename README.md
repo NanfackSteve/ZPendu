@@ -6,5 +6,5 @@ After select <strong>option 2</strong> : </br>
 
 ## How to use ?
 <ul>
-  <li> run <strong>python3 ZPendy.py</strong> </li>
+  <li> run <strong>python3 ZPendu.py</strong> </li>
 </ul>
